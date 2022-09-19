@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 3600,
+      "id": 1,
+      "title": "Remera",
+      "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_609331-MLA31050047143_062019-O.jpg"
+    },
+    {
+      "precio": 15000,
+      "id": 2,
+      "title": "Zapatillas",
+      "thumbnailUrl": "https://thumbs.nosto.com/quick/rbxh5h46/8/329403_alt_a79c2cf2b27016f892ea50fb582d12977fda0201f367e642ba516b889ede4814/d83c8435e92551043eb34be27d8846574727dd0bb4e6d8d4a3eff96943a6b83e/A"
+    },
+    {
+      "precio": 5000,
+      "id": 3,
+      "title": "Pantalon corto",
+      "thumbnailUrl": "https://m.media-amazon.com/images/I/31Wd4X6GrQS._SL500_.jpg"
+    },
+    {
+      "precio": 6350,
+      "id": 4,
+      "title": "Mancuernas",
+      "thumbnailUrl": "https://images.fravega.com/f300/903bf7bf1e933a02ad7337207caeecc2.jpg.webp"
+    },
+    {
+      "precio": 8000,
+      "id": 5,
+      "title": "Barra con toples cromada maciza",
+      "thumbnailUrl": "https://www.gmp.com.ar/wp-content/uploads/2017/06/165824809487f09281f51817741a8be9f8af34cde8.jpg"
+    },
+    {
+      "precio": 4500,
+      "id": 6,
+      "title": "Discos",
+      "thumbnailUrl": "https://www.gmp.com.ar/wp-content/uploads/2017/06/1614959854ff112ec0b058301d9b61805b7fc50a92-300x300.jpg"
+    }
+  ]
